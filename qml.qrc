@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Menu.qml</file>
+        <file>Game.qml</file>
+        <file>Chess.qml</file>
+        <file>Toolbar.qml</file>
+        <file>InformationTable.qml</file>
+        <file>Field.qml</file>
+        <file>Figures/BlackBishop.png</file>
+        <file>Figures/BlackKing.png</file>
+        <file>Figures/BlackKnight.png</file>
+        <file>Figures/BlackPawn.png</file>
+        <file>Figures/BlackQueen.png</file>
+        <file>Figures/BlackRook.png</file>
+        <file>Figures/WhiteBishop.png</file>
+        <file>Figures/WhiteKing.png</file>
+        <file>Figures/WhiteKnight.png</file>
+        <file>Figures/WhitePawn.png</file>
+        <file>Figures/WhiteQueen.png</file>
+        <file>Figures/WhiteRook.png</file>
+        <file>CheckMate.qml</file>
+        <file>StaleMate.qml</file>
+        <file>Time.qml</file>
+    </qresource>
+    <qresource prefix="/files"/>
+    <qresource prefix="/files" lang="d"/>
+</RCC>
